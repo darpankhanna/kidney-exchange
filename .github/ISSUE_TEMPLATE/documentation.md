@@ -2,7 +2,7 @@
 name: Documentation
 about: Report the issue related to Documentation
 title: Documentation Error
-labels: ''
+labels: documentation
 assignees: ''
 
 ---
